@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-**Nurakhmet-dev/Nurakhmet-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+``**Nurakhmet-Kohakhmet / Nurakhmet-dev**``
 
 Here are some ideas to get you started:
 
