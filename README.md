@@ -1,12 +1,3 @@
-# About me
-
-<hr>
-
-**Hello** **_my name is Nurakhmet_** <br>
-**_I'm from Kazakstan_** <br>
-**_I'm 18 years old_** <br>
-**_I'm Fullstack developer_**
-
 <h1 align="center">Hi 👋, I'm Nurakhmet</h1>
 <h3 align="center">A passionate fullstack developer from Kazakstan</h3>
 
