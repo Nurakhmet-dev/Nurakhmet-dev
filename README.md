@@ -2,9 +2,7 @@
 
 <hr>
 
-<mark>
-# Hello ***my name is Nurakhmet***
-***I'm from Kazakstan***
-***I'm 18 years old***
-***I'm Fullstack developer***
-</mark>
+**Hello** **_my name is Nurakhmet_** <br>
+**_I'm from Kazakstan_** <br>
+**_I'm 18 years old_** <br>
+**_I'm Fullstack developer_**
