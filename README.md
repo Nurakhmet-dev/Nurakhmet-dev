@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, NodeJS, Express**
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/Nurakhmet-dev?tab=repositories)
+- 👨‍💻 All of my projects are available at [repositorie](https://github.com/Nurakhmet-dev?tab=repositories)
 
 - 📫 How to reach me **nurakhmet.dev@gmail.com**
 
