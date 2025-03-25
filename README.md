@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codepen.io/nurakhmet-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nurakhmet-dev" height="30" width="40" /></a>
 <a href="https://instagram.com/nurakhmet-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nurakhmet-dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/NurakhmetDev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nurakhmet-dev" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/NurakhmetDev](https://www.youtube.com/@NurakhmetDev)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nurakhmet-dev" height="30" width="40" /></a>
 <a href="https://discord.gg/Nurakhmet-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Nurakhmet-dev" height="30" width="40" /></a>
 </p>
 
