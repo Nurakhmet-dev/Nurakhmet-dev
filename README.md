@@ -1,7 +1,5 @@
 
-<div style="
-  background-image:url(\"./laptopstopicpage-2048px-3685-2x1-1.webp\");
-  ">
+<div style="background: url(./laptopstopicpage-2048px-3685-2x1-1.webp);">
   fvdvdfvdfvdfv
 </div>
 
