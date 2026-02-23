@@ -1,4 +1,9 @@
-<img src="./laptopstopicpage-2048px-3685-2x1-1.webp" alt="laptop" />
+
+<div style="
+  background-image:url(\"./laptopstopicpage-2048px-3685-2x1-1.webp\");
+  ">
+  fvdvdfvdfvdfv
+</div>
 
 <h1 align="center">Hi 👋, I'm Nurakhmet </h1>
 <h3 align="center">A passionate frontend developer from India </h3>
