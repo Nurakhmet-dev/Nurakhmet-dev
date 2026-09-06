@@ -4,9 +4,9 @@
 
 # 📌About me:
 
-**🛖 My village: Shymkent**
-**📍 Know location: Kazakstan, Almaty / Shymkent**
-**🏫 Education: Politech College & University**
+- **🛖 My village: Shymkent**
+- **📍 Know location: Kazakstan, Almaty / Shymkent**
+- **🏫 Education: Politech College & University**
 
 > Always learning something new
 
